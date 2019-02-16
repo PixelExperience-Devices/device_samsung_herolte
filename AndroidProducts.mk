@@ -8,3 +8,4 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/pixeldust_herolte.mk \
 	$(LOCAL_DIR)/rr_herolte.mk \
 	$(LOCAL_DIR)/viper_herolte.mk \
+	$(LOCAL_DIR)/zen_herolte.mk \
