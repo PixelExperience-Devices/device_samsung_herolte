@@ -10,4 +10,5 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/viper_herolte.mk \
 	$(LOCAL_DIR)/zen_herolte.mk \
 	$(LOCAL_DIR)/revengeos_herolte.mk \
+	$(LOCAL_DIR)/zirconium_herolte.mk \
 
