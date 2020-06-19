@@ -1,0 +1,32 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "ivanmeler/android_kernel_samsung_herolte",
+    "target_path": "kernel/samsung/universal8890",
+    "branch":      "lineage-17.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "PE-Q-8890/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "PE-Q-8890/proprietary_vendor_samsung_hero-common",
+    "target_path": "vendor/samsung/hero-common",
+    "branch":      "lineage-17.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "PE-Q-8890/proprietary_vendor_seal_seal",
+    "target_path": "vendor/seal/seal",
+    "branch":      "lineage-17.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "PE-Q-8890/android_device_samsung_hero-common",
+    "target_path": "device/samsung/hero-common",
+    "branch":      "ten"
+  }
+]
