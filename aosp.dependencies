@@ -1,8 +1,8 @@
 [
   {
-    "remote": "gitlab",
-    "repository": "exynos8890dev/android_device_samsung_hero-common",
+    "remote": "github",
+    "repository": "pixelexperience-hero/device_samsung_hero-common",
     "target_path": "device/samsung/hero-common",
-    "branch": "pixel-experience-plus"
+    "branch": "pie"
   }
 ]
