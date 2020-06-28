@@ -7,7 +7,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "pixelexperience-devices/android_hardware_samsung",
+    "repository":  "pixelexperience-devices/hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "ten"
   },
