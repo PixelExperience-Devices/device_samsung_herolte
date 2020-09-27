@@ -12,9 +12,15 @@
     "branch":      "ten"
   },
   {
-    "remote":      "github",
-    "repository":  "pixelexperience-devices/vendor_samsung",
-    "target_path": "vendor/samsung",
+    "remote":      "pixel-devices-blobs",
+    "repository":  "vendor_samsung_universal8890",
+    "target_path": "vendor/samsung/universal8890",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "pixel-devices-blobs",
+    "repository":  "vendor_samsung_hero-common",
+    "target_path": "vendor/samsung/hero-common",
     "branch":      "ten"
   },
   {
