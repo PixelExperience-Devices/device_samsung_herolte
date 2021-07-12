@@ -1,0 +1,7 @@
+[
+    {
+        "repository": "device_samsung_universal8890-common",
+        "target_path": "device/samsung/universal8890-common",
+        "branch": "eleven"
+    }
+]
